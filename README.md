@@ -1,2 +1,2 @@
-# pyhton_ques
-Pyhton Questions and related solutions
+# Big Data Questions
+This repo contains Python questions for BIG DATA.
